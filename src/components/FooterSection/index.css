@@ -1,0 +1,26 @@
+.footer-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #5a7184;
+  position: relative;
+  bottom: 0px;
+  z-index: 4;
+}
+.footer-icon {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  color: goldenrod;
+}
+.footer-icons-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.contact-us {
+  margin: 0px;
+  color: goldenrod;
+}
